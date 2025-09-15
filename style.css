@@ -49,7 +49,7 @@ li a:hover{
 }
 
 .header{
-  background-image: url(pexels-nao-triponez-129207.jpg);
+  background-image: url(photos/pexels-nao-triponez-129207.jpg);
   background-position: center;
   background-size: cover;
   height: 100vh;
@@ -102,7 +102,7 @@ li a:hover{
  .img{
   width: 400px;
   height: 400px;
-  background: url(pexels-chitokan-2183027-removebg-preview.png);
+  background: url(photos/pexels-chitokan-2183027-removebg-preview.png);
   background-position: center;
   background-size: cover;
  }
@@ -202,17 +202,17 @@ li a:hover{
 }
 
 .img-one{
-  background: url(1.png);
+  background: url(photos/1.png);
   background-position: center;
   background-size:cover;
 }
 .img-two{
-  background: url(2.png);
+  background: url(photos/2.png);
   background-position: center;
   background-size:cover;
 }
 .img-three{
-  background: url(3.png);
+  background: url(photos/3.png);
   background-position: center;
   background-size:cover;
 }
